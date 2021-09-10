@@ -6,3 +6,17 @@ ZCZC W00 05 L12 Assignment #02
 ZCZC W00 05 L12 Assignment #03
 ZCZC W00 05 L14 Assignment #04
 ZCZC W00 60 L14 Assignment #05
+ZCZC W01 100 L02 Zoom meetings sync class: 6-Sep
+ZCZC W01 100 L02 Zoom meetings sync class: 9-Sep
+ZCZC W01  40 L11 Assignment #01
+ZCZC W01  90 L12 Assignment #02
+ZCZC W01  30 L13 Assignment #03
+ZCZC W01  90 L64 Helping OS related problem to a friend.
+ZCZC W01  60 L14 Assignment #04
+ZCZC W01  50 L15 Assignment #05
+ZCZC W01  60 L16 Assignment #06
+ZCZC W01  20 L17 Assignment #07
+ZCZC W01  60 L64 Helping OS related problem to a friend.
+ZCZC W01  45 L18 Assignment #08
+ZCZC W01  60 L19 Assignment #09
+ZCZC W01  45 L06 References/Books/Documents/GSGS related.
