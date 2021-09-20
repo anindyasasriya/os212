@@ -21,3 +21,11 @@ Since we began scripting, the term regex is commonly heard of. From this article
 This week, we were introduced to cyber security. I thought cyber security is a fascinating subject by watching the introduction video required in W02 slide but i want to understand a bit more about cyber security. This link helps me understand cyber security better and it's very useful for beginner.
 7. [C Language basic](https://www.geeksforgeeks.org/c-language-set-1-introduction/)<br>
 C language is one of the demo that we tried this week. Before trying the demo, i wanted to know what C language is and how it is different from any other programming language that i've tried, like Java and Python. By reading this article, i can learn that turns out C language is just as fun as Java and Python!
+
+## Week 3
+7. [File system](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
+One of the topic that we have to learn this week is file system. Based on this article, a file is a named collection of related information that is recorded on secondary storage such as magnetic disks, magnetic tapes and optical disks. In general, a file is a sequence of bits, bytes, lines or records whose meaning is defined by the files creator and user. I also learn that a file Structure should be according to a required format that the operating system can understand.
+8. [File system interface](https://www.w3schools.in/operating-system-tutorial/file-system-interface/)<br>
+Similiar to the previous number, this article also talks about file system interface. From this article, i can learn about file operations, like creating a file, writing a file, reading a file, etc, which are fundamental for this subject.
+9. [Device directory](https://study.com/academy/lesson/the-dev-directory-in-the-linux-filesystem.html)<br>
+In order to understand our directory better, we have to know where our directory is located. In Linux, the /dev directory contains device and other special files. Even though you have to make an account to open this article, it's worth it because it gives clear explanation for /dev directory.
