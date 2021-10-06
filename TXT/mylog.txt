@@ -66,4 +66,23 @@ ZCZC W04 30 L16 Assignment #06 (adding important links to for my OS materials)
 ZCZC W04 45 L17 Assignment #07 (review my neighbor links)
 ZCZC W04 10 L18 Assignment #08 (update mylog.txt)
 ZCZC W04 100 L02 Zoom meetings sync class: 30-Sep
+ZCZC W04 60 L64 Helping OS related problem to a friend.
 ZCZC W04 50 L06 References/Books/Documents/GSGS related.
+ZCZC W04 15 L64 Helping OS related problem to a friend.
+
+ZCZC W05 100 L02 Zoom meetings sync class: 20-Sep
+ZCZC W05 90 L11 Assignment #01 (read OSC10 chapter 10)
+ZCZC W05 20 L12 Assignment #02 (try W05 demos)
+ZCZC W05 60 L13 Assignment #03 (try previous midterm problems)
+ZCZC W05 15 L14 Assignment #04 (trying how low my memory can go: 190mb)
+ZCZC W05 05 L15 Assignment #04 (Fetch and Extract File WEEK05.tar.bz2.asc.)
+ZCZC W05 05 L15 Assignment #04 (modify mymemory2.c)
+ZCZC W05 01 L15 Assignment #04 (run script "000-README.txt.")
+ZCZC W05 05 L15 Assignment #04 (copy the result WEEK05-MEMORY.txt)
+ZCZC W05 45 L16 Assignment #05 (adding important links to for my OS materials)
+ZCZC W05 30 L17 Assignment #06 (creating tips.md)
+ZCZC W05 20 L17 Assignment #07 (review my peer links/update my rank.txt)
+ZCZC W05 15 L18 Assignment #08 (update mylog.txt)
+ZCZC W05 100 L02 Zoom meetings sync class: 23-Sep
+ZCZC W05 50 L06 References/Books/Documents/GSGS related.
+ZCZC W05 20 L64 Helping OS related problem to a friend.
