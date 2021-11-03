@@ -62,3 +62,11 @@ Aside from process concept, we were required to learn process creation. This art
 Context switching is also an important topic that we have to learn this week. From this article, i can learned that context switching is a technique or method used by the operating system to switch a process from one state to another to execute its function using CPUs in the system. I can also learned that when switching perform in the system, it stores the old running process's status in the form of registers and assigns the CPU to a new process to execute its tasks .
 24. [Fork() method](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 In the computing field, fork() is the primary method of process creation on Unix-like operating systems. This function creates a new copy called the child out of the original process, that is called the parent.
+
+# Week 7
+25. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+From this website, i can learn that deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. 
+26. [Synchronization in Operating System](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html)<br>
+I can learn that process Synchronization is a way to coordinate processes that use shared data and it occurs in an operating system among cooperating processes.
+27. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
+This website is very insightful. I can learn that the one difference between deadlock and starvation is that in deadlock, all processes keep waiting for each other to complete and none get executed. Meanwhile, in starvation high priority processes keep executing and low priority processes are blocked.
