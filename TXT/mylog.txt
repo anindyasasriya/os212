@@ -102,3 +102,19 @@ ZCZC W06 15 L18 Assignment #08 (update mylog.txt)
 ZCZC W06 50 L06 References/Books/Documents/GSGS related.
 ZCZC W06 05 L19 Assignment #09 (submit W06 assignments)
 ZCZC W06 100 L02 Zoom meetings sync class: 14-Oct
+
+ZCZC W07 20 L05 Quiz Week 6 (ToF and scripting)
+ZCZC W07 100 L02 Zoom meetings sync class: 2-Nov
+ZCZC W07 90 L11 Assignment #01 (read OSC10 chapter 6, 7, 8)
+ZCZC W07 60 L12 Assignment #02 (try W07 demos)
+ZCZC W07 15 L64 Helping OS related problem to a friend.
+ZCZC W07 60 L06 References/Books/Documents/GSGS related.
+ZCZC W07 50 L13 Assignment #03 (try previous midterm problems)
+ZCZC W07 30 L14 Assignment #04 (synchronization and shared memory)
+ZCZC W07 50 L06 References/Books/Documents/GSGS related.
+ZCZC W07 40 L15 Assignment #05 (adding important links to for my OS materials)
+ZCZC W07 10 L16 Assignment #06 (updating tips.md)
+ZCZC W07 10 L17 Assignment #07 (review my peer links/update my rank.txt)
+ZCZC W07 15 L18 Assignment #08 (update mylog.txt)
+ZCZC W07 05 L19 Assignment #09 (submit W07 assignments)
+ZCZC W07 100 L02 Zoom meetings sync class: 4-Nov
