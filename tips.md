@@ -15,3 +15,5 @@ Make sure to work on all your assignments, don't skip any of it! Do this tip and
 Last but not least, just have fun! Don't be too stressed if it's didn't go according to your plan. Trial and error is needed for learning experience and by experiencing some failure, we can grow and not repeating the same mistake.
 6. Make sure to regularly check your Scele<br>
 Every week, OS lecturer regulary posted questions related to OS so make sure you're always up to date with recent discussion forum to gain that extra points!
+7. Be careful of git corruption!<br>
+Make sure this doesn't happen! If it already happened, don't be shy to ask the teaching assistant.
