@@ -121,16 +121,17 @@ ZCZC W07 100 L02 Zoom meetings sync class: 4-Nov
 
 ZCZC W08 20 L05 Quiz Week 6 (ToF and scripting)
 ZCZC W08 100 L02 Zoom meetings synch class: 9-Nov
-ZCZC W08 90 L11 Assignment #01 (read OSC10 chapter 6, 7, 8)
-ZCZC W08 60 L12 Assignment #02 (try W07 demos)
+ZCZC W08 100 L11 Assignment #01 (read OSC10 chapter 5)
+ZCZC W08 50 L12 Assignment #02 (try W08 demos)
 ZCZC W08 15 L64 Helping OS related problem to a friend.
-ZCZC W08 60 L06 References/Books/Documents/GSGS related.
-ZCZC W08 50 L13 Assignment #03 (try previous midterm problems)
-ZCZC W08 30 L14 Assignment #04 (synchronization and shared memory)
 ZCZC W08 50 L06 References/Books/Documents/GSGS related.
-ZCZC W08 40 L15 Assignment #05 (adding important links to for my OS materials)
+ZCZC W08 50 L13 Assignment #03 (try previous midterm problems)
+ZCZC W08 120 L14 Assignment #04 (Linux From Scratch 11.0 Chapter 01-04)
+ZCZC W08 50 L06 References/Books/Documents/GSGS related.
+ZCZC W08 120 L15 Assignment #05 (5 Linux From Scratch 11.0 Chapter 05)
 ZCZC W08 10 L16 Assignment #06 (updating tips.md)
 ZCZC W08 10 L17 Assignment #07 (review my peer links/update my rank.txt)
 ZCZC W08 15 L18 Assignment #08 (update mylog.txt)
-ZCZC W08 05 L19 Assignment #09 (submit W07 assignments)
-ZCZC W08 100 L02 Asynch class: 11-Nov
+ZCZC W08 05 L19 Assignment #09 (submit W08 assignments)
+ZCZC W08 100 L02 Asynch class: 11-Nov (Self study)
+ZCZC W08 60 L06 References/Books/Documents/GSGS related.
