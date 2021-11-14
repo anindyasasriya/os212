@@ -17,3 +17,5 @@ Last but not least, just have fun! Don't be too stressed if it's didn't go accor
 Every week, OS lecturer regulary posted questions related to OS so make sure you're always up to date with recent discussion forum to gain that extra points!
 7. Be careful of git corruption!<br>
 Make sure this doesn't happen! If it already happened, don't be shy to ask the teaching assistant.
+8. Work your assignments with your peer!<br>
+Not only it makes learning more fun, you can also ask your friend if you have OS related problem.
