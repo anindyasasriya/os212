@@ -70,3 +70,9 @@ From this website, i can learn that deadlock is a situation where a set of proce
 I can learn that process Synchronization is a way to coordinate processes that use shared data and it occurs in an operating system among cooperating processes.
 27. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
 This website is very insightful. I can learn that the one difference between deadlock and starvation is that in deadlock, all processes keep waiting for each other to complete and none get executed. Meanwhile, in starvation high priority processes keep executing and low priority processes are blocked.
+
+# Week 8
+28. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+From this article, i can know that approaches to multiple-processor scheduling are master server and the other processors executes only the user code and a second approach uses symmetric multiprocessing where each processor is self scheduling.
+29. [Two State Process Model](https://slaystudy.com/process-state-models-in-operating-system/)<br>
+From this website, i can also know that two state process podel consists of two states, not-running ptate: process waiting for execution and running State: process currently executing.
